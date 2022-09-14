@@ -34,8 +34,8 @@ function App() {
         <Navbar name='React' base='JavaScript' mode={mode} toggleColor={toggleColor} />
         <h1 className="container my-2">This is my first react app</h1>
         <Routes>
-          <Route path="/textarea" element={<Textarea heading='Enter your text' rows={8} default='Enter your text here' mode={mode} />} />
-          <Route path="/about" element={<About toggleMode={toggleMode} mode={mode} color={color} />} />
+          <Route path="/First-React-App/textarea" element={<Textarea heading='Enter your text' rows={8} default='Enter your text here' mode={mode} />} />
+          <Route path="/First-React-App/about" element={<About toggleMode={toggleMode} mode={mode} color={color} />} />
         </Routes>
       </Router>
 
