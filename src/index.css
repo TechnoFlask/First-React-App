@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#navbar {
+  position: sticky;
+  top: 0;
+}
+
+#colors>div {
+  display: inline-block;
+}
+
+#colors>p {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+#colors {
+  position: absolute;
+  right: 20px;
+  top: 11px;
+}
