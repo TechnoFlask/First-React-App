@@ -13,8 +13,8 @@ export default function Navbar(propsNav) {
                 <div className="container-fluid" style={style}>
                     <span className="navbar-brand mb-0 h1">{propsNav.name}</span>
                     <span className="navbar-brand mb-0 h1">{propsNav.base}</span>
-                    <Link className="navbar-brand mb-0 h1" to="/about">About</Link>
-                    <Link className="navbar-brand mb-0 h1" to="/textarea">TextArea</Link>
+                    <Link className="navbar-brand mb-0 h1" to="/First-React-App/about">About</Link>
+                    <Link className="navbar-brand mb-0 h1" to="/First-React-App/textarea">TextArea</Link>
                     <div id="colors">
                         <p>Dark modes</p>
                         <div className="form-check">
