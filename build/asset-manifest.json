@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Coding-Space/static/css/main.d065fa02.css",
+    "main.js": "/Coding-Space/static/js/main.fe90be46.js",
+    "static/js/496.3f15d13a.chunk.js": "/Coding-Space/static/js/496.3f15d13a.chunk.js",
+    "index.html": "/Coding-Space/index.html",
+    "main.d065fa02.css.map": "/Coding-Space/static/css/main.d065fa02.css.map",
+    "main.fe90be46.js.map": "/Coding-Space/static/js/main.fe90be46.js.map",
+    "496.3f15d13a.chunk.js.map": "/Coding-Space/static/js/496.3f15d13a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d065fa02.css",
+    "static/js/main.fe90be46.js"
+  ]
+}
